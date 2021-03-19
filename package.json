@@ -204,7 +204,7 @@
     "icedfrisby": "4.0.0",
     "icedfrisby-nock": "^2.0.0",
     "is-png": "^2.0.0",
-    "is-svg": "^4.2.1",
+    "is-svg": "^4.2.2",
     "js-yaml-loader": "^1.2.2",
     "jsdoc": "^3.6.6",
     "lint-staged": "^10.4.2",
